@@ -1,0 +1,8 @@
+{
+  "name": "Remix v3 MIA - Multi-page Items Assistant",
+  "description": "AI-empowered web agent tool to highlight, collect, and purchase camping gear across Decathlon, Chilloutdoor, and Campfire into one unified companion panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
